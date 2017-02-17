@@ -6,7 +6,460 @@ SMARTACCOUNTING
 </name>
 </assembly>
 <members>
-<member name="T:SMARTACCOUNTING.DataCustomer.cbo_report_customerDataTable">
+<member name="P:SMARTACCOUNTING.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources._3d_graph_SH">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources._next">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.accounting_cycle">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Actions_session_exit_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Actions_session_exit_icon__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Actions_session_exit_icon__1_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Actions_session_exit_icon__1_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Actions_session_exit_icon__1_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Actions_session_exit_icon__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Actions_session_exit_icon__3_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Actions_session_exit_icon__3_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.add">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.analyst_report">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.ap_report">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Arrow">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.arrow_circle_double">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Arrow2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.arrow3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.background_black">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Background1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.background2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.barang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.baru">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.bayar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.calculator_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Cancel_24x24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Capture">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.cari">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.cash_his">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.cash_register">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Check_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Close_Period">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Command">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Customer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.daftar_master">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.data_barang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Delete_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Delete_16x161">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.excel_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.faktur">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.forgot_password">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.gudang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.hapus">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Help_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.home">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.home1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.info">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.infocard">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.information_button">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.jenis">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.kategori">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Key_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Key_24x24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.konversi_unit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.konvert_matauang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.koreksi_stok">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.kredit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.lebur">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.list_barang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.login1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.logo_and_text_xsmall_fixed">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.mata_uang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.New_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Next_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Next_24x24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.no_image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Open_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.opname">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.payment">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.pegawai">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.piaccountingsmall">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.pindah_gudang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.previous">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Previous_24x24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.print">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Print_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Print_16x161">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Properties_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.received_item">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Refresh_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.rekon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.reparasi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.REPLIKA1_mgWbSm8ZFbpApNKCkqUlv7N7p0HZC2yyiUaBHikXKaiAx2MhsqToyqvorDN3FL2yqdA8MufgUNqSPDAI4d62U2qLGEPWaSUQ5fY">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.report">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.report1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.reset">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.retur">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.ro">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.saldo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Save_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Save_16x161">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.save_time">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Search_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Send_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.services">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Settings_48x48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.simpan">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.so">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.spa_wellness">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.status_credit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.std_report">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.stock_report">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.suppier">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.terima">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.timer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.tutup">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.unit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Upload_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.User_24x24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:SMARTACCOUNTING.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataCustomer.cbo_report_customerDataTable">
 	<summary>
 Represents the strongly named DataTable class.
 </summary>
@@ -541,459 +994,6 @@ Used to sort self-referenced table's rows
 </member><member name="T:SMARTACCOUNTING.DataPenjualanTableAdapters.TableAdapterManager">
 	<summary>
 TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.ResourceManager">
-	<summary>
-  Returns the cached ResourceManager instance used by this class.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Culture">
-	<summary>
-  Overrides the current thread's CurrentUICulture property for all
-  resource lookups using this strongly typed resource class.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources._3d_graph_SH">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources._next">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.accounting_cycle">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Actions_session_exit_icon">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Actions_session_exit_icon__1_">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Actions_session_exit_icon__1_1">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Actions_session_exit_icon__1_2">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Actions_session_exit_icon__1_3">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Actions_session_exit_icon__2_">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Actions_session_exit_icon__3_">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Actions_session_exit_icon__3_1">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.add">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.analyst_report">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.ap_report">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Arrow">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.arrow_circle_double">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Arrow2">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.arrow3">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Background">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.background_black">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Background1">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.background2">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.barang">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.baru">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.bayar">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.calculator_icon">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Cancel_24x24">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Capture">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.cari">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.cash_his">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.cash_register">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Check_16x16">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Close_Period">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Command">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Customer">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.daftar_master">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.data_barang">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Delete_16x16">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Delete_16x161">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.excel_icon">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.faktur">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.forgot_password">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.gudang">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.hapus">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Help_16x16">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.home">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.home1">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.info">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.infocard">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.information_button">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.jenis">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.kategori">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Key_16x16">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Key_24x24">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.konversi_unit">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.konvert_matauang">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.koreksi_stok">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.kredit">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.lebur">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.list_barang">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.login1">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.logo_and_text_xsmall_fixed">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.mata_uang">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.New_16x16">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Next_16x16">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Next_24x24">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.no_image">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Open_16x16">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.opname">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.payment">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.pegawai">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.piaccountingsmall">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.pindah_gudang">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.previous">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Previous_24x24">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.print">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Print_16x16">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Print_16x161">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Properties_16x16">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.received_item">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Refresh_16x16">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.rekon">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.reparasi">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.REPLIKA1_mgWbSm8ZFbpApNKCkqUlv7N7p0HZC2yyiUaBHikXKaiAx2MhsqToyqvorDN3FL2yqdA8MufgUNqSPDAI4d62U2qLGEPWaSUQ5fY">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.report">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.report1">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.reset">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.retur">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.ro">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.saldo">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Save_16x16">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Save_16x161">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.save_time">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Search_16x16">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Send_16x16">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.services">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Settings_48x48">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.simpan">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.so">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.spa_wellness">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.status_credit">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.std_report">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.stock_report">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.suppier">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.terima">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.timer">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.tutup">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.unit">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Upload_16x16">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.User_24x24">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="T:SMARTACCOUNTING.My.Resources.Resources">
-	<summary>
-  A strongly-typed resource class, for looking up localized strings, etc.
 </summary>
 </member>
 </members>

@@ -257,7 +257,7 @@ Partial Class frmcoa
         Me.Label1.BackColor = System.Drawing.Color.Transparent
         Me.Label1.Location = New System.Drawing.Point(15, 377)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(100, 18)
+        Me.Label1.Size = New System.Drawing.Size(99, 18)
         Me.Label1.TabIndex = 6
         Me.Label1.Text = "Golongan Akun:"
         '
@@ -332,7 +332,7 @@ Partial Class frmcoa
         Me.Label12.BackColor = System.Drawing.Color.Transparent
         Me.Label12.Location = New System.Drawing.Point(14, 29)
         Me.Label12.Name = "Label12"
-        Me.Label12.Size = New System.Drawing.Size(141, 18)
+        Me.Label12.Size = New System.Drawing.Size(140, 18)
         Me.Label12.TabIndex = 30
         Me.Label12.Text = "Pencarian Berdasarkan"
         '
@@ -354,7 +354,7 @@ Partial Class frmcoa
         Me.Label9.BackColor = System.Drawing.Color.Transparent
         Me.Label9.Location = New System.Drawing.Point(14, 88)
         Me.Label9.Name = "Label9"
-        Me.Label9.Size = New System.Drawing.Size(97, 18)
+        Me.Label9.Size = New System.Drawing.Size(94, 18)
         Me.Label9.TabIndex = 32
         Me.Label9.Text = "Teks Pencarian"
         '
@@ -382,7 +382,7 @@ Partial Class frmcoa
         Me.chk_date.Location = New System.Drawing.Point(15, 24)
         Me.chk_date.Margin = New System.Windows.Forms.Padding(3, 4, 3, 4)
         Me.chk_date.Name = "chk_date"
-        Me.chk_date.Size = New System.Drawing.Size(125, 22)
+        Me.chk_date.Size = New System.Drawing.Size(122, 22)
         Me.chk_date.TabIndex = 38
         Me.chk_date.Text = "Rentang Tanggal"
         Me.chk_date.UseVisualStyleBackColor = True
@@ -492,7 +492,7 @@ Partial Class frmcoa
         Me.Label7.ForeColor = System.Drawing.Color.Black
         Me.Label7.Location = New System.Drawing.Point(15, 427)
         Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(179, 18)
+        Me.Label7.Size = New System.Drawing.Size(176, 18)
         Me.Label7.TabIndex = 55
         Me.Label7.Text = "Posisi Default dan Saldo Awal"
         '
@@ -504,7 +504,7 @@ Partial Class frmcoa
         Me.Label6.ForeColor = System.Drawing.Color.Black
         Me.Label6.Location = New System.Drawing.Point(15, 286)
         Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(152, 18)
+        Me.Label6.Size = New System.Drawing.Size(150, 18)
         Me.Label6.TabIndex = 54
         Me.Label6.Text = "Tautan ke Jenis Laporan"
         '
@@ -528,7 +528,7 @@ Partial Class frmcoa
         Me.Label4.ForeColor = System.Drawing.Color.Black
         Me.Label4.Location = New System.Drawing.Point(15, 123)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(118, 18)
+        Me.Label4.Size = New System.Drawing.Size(117, 18)
         Me.Label4.TabIndex = 52
         Me.Label4.Text = "No dan Nama Akun"
         '
@@ -540,7 +540,7 @@ Partial Class frmcoa
         Me.Label2.ForeColor = System.Drawing.Color.Black
         Me.Label2.Location = New System.Drawing.Point(15, 72)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(76, 18)
+        Me.Label2.Size = New System.Drawing.Size(75, 18)
         Me.Label2.TabIndex = 51
         Me.Label2.Text = "Group Akun"
         '
@@ -552,7 +552,7 @@ Partial Class frmcoa
         Me.Label3.ForeColor = System.Drawing.Color.Black
         Me.Label3.Location = New System.Drawing.Point(15, 23)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(71, 18)
+        Me.Label3.Size = New System.Drawing.Size(70, 18)
         Me.Label3.TabIndex = 50
         Me.Label3.Text = "Jenis Akun"
         '
@@ -978,7 +978,7 @@ Partial Class frmcoa
         Me.Label10.ForeColor = System.Drawing.Color.RoyalBlue
         Me.Label10.Location = New System.Drawing.Point(8, 5)
         Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(164, 24)
+        Me.Label10.Size = New System.Drawing.Size(163, 24)
         Me.Label10.TabIndex = 301
         Me.Label10.Text = "Chart Of Account"
         '

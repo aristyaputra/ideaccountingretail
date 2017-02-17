@@ -17,10 +17,10 @@ Public Class restore
         Dim myProcess As New Process()
         myProcess.StartInfo.FileName = "cmd.exe"
         myProcess.StartInfo.UseShellExecute = False
-        If (Not System.IO.Directory.Exists("C:\PROGRAM Files (x86)\MySQL Server Yolk\bin\")) Then
-            myProcess.StartInfo.WorkingDirectory = "C:\PROGRAM Files\MySQL Server Yolk\bin\"
+        If (Not System.IO.Directory.Exists("C:\PROGRAM Files (x86)\IDEAccountingDB\bin\")) Then
+            myProcess.StartInfo.WorkingDirectory = "C:\PROGRAM Files\IDEAccountingDB\bin\"
         Else
-            myProcess.StartInfo.WorkingDirectory = "C:\PROGRAM Files (x86)\MySQL Server Yolk\bin\"
+            myProcess.StartInfo.WorkingDirectory = "C:\PROGRAM Files (x86)\IDEAccountingDB\bin\"
         End If
         myProcess.StartInfo.RedirectStandardInput = True
         myProcess.StartInfo.RedirectStandardOutput = True
