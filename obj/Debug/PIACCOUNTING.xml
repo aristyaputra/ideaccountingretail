@@ -1,0 +1,828 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PIACCOUNTING
+</name>
+</assembly>
+<members>
+<member name="P:PIACCOUNTING.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources._10001454_1412525142338942_173576377_n">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources._1148939_1415325112058945_1376435035_n">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources._1315210517_Windows_HD1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources._3d_graph_SH">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources._next">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.abstract_colour_background_orange_wallpaper_1280x768">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.abstract_colour_background_orange_wallpaper_1280x7681">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Accounts">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Accounts1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.accreva">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Actions_session_exit_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Actions_session_exit_icon__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Actions_session_exit_icon__1_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Actions_session_exit_icon__1_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Actions_session_exit_icon__1_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Actions_session_exit_icon__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Actions_session_exit_icon__3_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Actions_session_exit_icon__3_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.add">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.admini10">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.agt_business">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Almond___Copy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.analyst_report">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.ap_report">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Arrow">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.arrow_circle_double">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Arrow2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.arrow3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.background_black">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.background_new">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.background1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.background2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.background2___Copy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.background3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.bank_check_account_finance_money_financial_item_flat_icon_symbol_128">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.banking">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.banking1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.barang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.baru">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.bayar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.business_sale_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.calculator_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Cancel_24x24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Capture">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.card_file">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Cardfile">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.cari">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.cash_his">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.cash_register">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Check_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Close_Period">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Command">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Copy_128">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Customer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.daftar_master">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.data_barang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Delete_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Delete_16x161">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.EMPY_0000021008201522">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.EMPY1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.excel_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.faktur">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.foreimage">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.foreimage_copy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.foreimage2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.gudang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.hapus">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Help_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.home">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.home_icon_demo_zpsa42c466c">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.home1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.icon_asset_management">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.info">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.infocard">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.information_button">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.inventory">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.inventory_maintenance">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.inventory1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.inventorymanagement">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Investment_512">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Item_3D_128">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.jenis">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.kategori">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Key_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Key_24x24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.konversi_unit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.konvert_matauang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.koreksi_stok">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.kredit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.lebur">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.list_barang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.login">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.login_itp_versi_ACCREVA">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.login_itp_versi_ACCREVA1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.login_itp_versi_piaccounting">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.login_itp_versi_piaccounting1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.login_itp_versi_piaccounting2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.login_itp_versi_piaccounting3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.login_itp_versi_piaccounting4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.login_itp_versi_piaccounting5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.login_PIACCOUNTING_versi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.login_PIACCOUNTING_versi1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.login_PIACCOUNTING_versi2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.login1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.login2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.login3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.login4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.login5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.login6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.loginform3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Logo_Small">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Logo_Small1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.master">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.master1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.mata_uang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.match_outdoors_meet_stick_life_lambda_128">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Money_128">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.New_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.New_Login">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.New_Login___Copy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.New_Login2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.newyolk212">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Next_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Next_24x24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.no_image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.office_and_bussines3_128">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.online_store">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Open_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.open_box">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.open_file_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.opname">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.package">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.palet01">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.payment">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.pegawai">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.piaccountingsmall">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.pic01">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.pindah_gudang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.piutangjt">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.piutangjt1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.piutangjt2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.previous">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Previous_24x24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.prices_512">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.print">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Print_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Print_16x161">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Properties_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.purchase">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.purchase1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.purchase2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.received_item">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Refresh_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.rekon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.reparasi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.report">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.report1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.reset">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.retur">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.ro">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.saldo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.sales">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.sales1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.salon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.salon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.salon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.salon3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Save_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Save_16x161">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.save_time">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Search_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Send_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.services">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.settings">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Settings_256x256">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Settings_48x48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.shopping_5_128">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.simpan">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Slide1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.so">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.spa_wellness">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.status_credit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.std_report">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.stock_report">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.suppier">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Tag_128">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.terima">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.timer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.tutup">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.unit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Untitled_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Untitled_4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Untitled_9">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.Upload_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.User_24x24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.user_user_icon_user_png_flat_icon_web_icon_png_circle_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.user_user_icon_user_png_flat_icon_web_icon_png_circle_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.wallet_128">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PIACCOUNTING.My.Resources.Resources.wihtdrawal_256">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:PIACCOUNTING.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

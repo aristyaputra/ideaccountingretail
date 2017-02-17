@@ -1,0 +1,940 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PointOfSales
+</name>
+</assembly>
+<members>
+<member name="T:PointOfSales.DataDashboard.GrafikPenjualanPerCategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PointOfSales.DataDashboard.Grafik_Quantitave_RequestDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PointOfSales.DataDashboard.GrafikPenjualanPerCategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PointOfSales.DataDashboard.Grafik_Quantitave_RequestRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PointOfSales.DataDashboard.GrafikPenjualanPerCategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PointOfSales.DataDashboard.Grafik_Quantitave_RequestRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PointOfSales.DataDashboard">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PointOfSales.DataDashboardTableAdapters.GrafikPenjualanPerCategory">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PointOfSales.DataDashboardTableAdapters.Grafik_Quantitave_Request">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PointOfSales.DataDashboardTableAdapters.TableAdapterManager.UpdateUpdatedRows(PointOfSales.DataDashboard,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PointOfSales.DataDashboardTableAdapters.TableAdapterManager.UpdateInsertedRows(PointOfSales.DataDashboard,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PointOfSales.DataDashboardTableAdapters.TableAdapterManager.UpdateDeletedRows(PointOfSales.DataDashboard,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PointOfSales.DataDashboardTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PointOfSales.DataDashboardTableAdapters.TableAdapterManager.UpdateAll(PointOfSales.DataDashboard)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PointOfSales.DataDashboardTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PointOfSales.DataDashboardTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PointOfSales.DataDashboardTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PointOfSales.DataNotif.Stok_TerakhirDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PointOfSales.DataNotif.Piutang_JTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PointOfSales.DataNotif.Stok_MinimumDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PointOfSales.DataNotif.Hutang_JTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PointOfSales.DataNotif.Notif_New_RODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PointOfSales.DataNotif.Notif_Approved_RODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PointOfSales.DataNotif.List_PODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PointOfSales.DataNotif.List_PO_PurchDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PointOfSales.DataNotif.List_SODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PointOfSales.DataNotif.Stok_TerakhirRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PointOfSales.DataNotif.Piutang_JTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PointOfSales.DataNotif.Stok_MinimumRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PointOfSales.DataNotif.Hutang_JTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PointOfSales.DataNotif.Notif_New_RORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PointOfSales.DataNotif.Notif_Approved_RORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PointOfSales.DataNotif.List_PORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PointOfSales.DataNotif.List_PO_PurchRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PointOfSales.DataNotif.List_SORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PointOfSales.DataNotif.Stok_TerakhirRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PointOfSales.DataNotif.Piutang_JTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PointOfSales.DataNotif.Stok_MinimumRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PointOfSales.DataNotif.Hutang_JTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PointOfSales.DataNotif.Notif_New_RORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PointOfSales.DataNotif.Notif_Approved_RORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PointOfSales.DataNotif.List_PORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PointOfSales.DataNotif.List_PO_PurchRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PointOfSales.DataNotif.List_SORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PointOfSales.DataNotif">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PointOfSales.DataNotifTableAdapters.Stock_Terakhir">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PointOfSales.DataNotifTableAdapters.Piutang_JT">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PointOfSales.DataNotifTableAdapters.Stok_Minimum">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PointOfSales.DataNotifTableAdapters.Hutang_JT">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PointOfSales.DataNotifTableAdapters.Notif_New_RO">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PointOfSales.DataNotifTableAdapters.Notif_Approved_RO">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PointOfSales.DataNotifTableAdapters.List_PO">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PointOfSales.DataNotifTableAdapters.List_PO_Purch">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PointOfSales.DataNotifTableAdapters.List_SO">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PointOfSales.DataNotifTableAdapters.TableAdapterManager.UpdateUpdatedRows(PointOfSales.DataNotif,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PointOfSales.DataNotifTableAdapters.TableAdapterManager.UpdateInsertedRows(PointOfSales.DataNotif,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PointOfSales.DataNotifTableAdapters.TableAdapterManager.UpdateDeletedRows(PointOfSales.DataNotif,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PointOfSales.DataNotifTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PointOfSales.DataNotifTableAdapters.TableAdapterManager.UpdateAll(PointOfSales.DataNotif)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PointOfSales.DataNotifTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PointOfSales.DataNotifTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PointOfSales.DataNotifTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PointOfSales.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PointOfSales.DataCustomer.cbo_report_customerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PointOfSales.DataCustomer.cbo_report_cust_kotaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PointOfSales.DataCustomer.cbo_report_customerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PointOfSales.DataCustomer.cbo_report_cust_kotaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PointOfSales.DataCustomer.cbo_report_customerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PointOfSales.DataCustomer.cbo_report_cust_kotaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PointOfSales.DataCustomer">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PointOfSales.DataCustomerTableAdapters.cbo_report_customerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PointOfSales.DataCustomerTableAdapters.cbo_report_cust_kotaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PointOfSales.DataCustomerTableAdapters.TableAdapterManager.UpdateUpdatedRows(PointOfSales.DataCustomer,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PointOfSales.DataCustomerTableAdapters.TableAdapterManager.UpdateInsertedRows(PointOfSales.DataCustomer,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PointOfSales.DataCustomerTableAdapters.TableAdapterManager.UpdateDeletedRows(PointOfSales.DataCustomer,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PointOfSales.DataCustomerTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PointOfSales.DataCustomerTableAdapters.TableAdapterManager.UpdateAll(PointOfSales.DataCustomer)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PointOfSales.DataCustomerTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PointOfSales.DataCustomerTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PointOfSales.DataCustomerTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PointOfSales.DataBarang.cbo_barangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PointOfSales.DataBarang.cbo_barangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PointOfSales.DataBarang.cbo_barangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PointOfSales.DataBarang">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PointOfSales.DataBarangTableAdapters.cbo_barangTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PointOfSales.DataBarangTableAdapters.TableAdapterManager.UpdateUpdatedRows(PointOfSales.DataBarang,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PointOfSales.DataBarangTableAdapters.TableAdapterManager.UpdateInsertedRows(PointOfSales.DataBarang,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PointOfSales.DataBarangTableAdapters.TableAdapterManager.UpdateDeletedRows(PointOfSales.DataBarang,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PointOfSales.DataBarangTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PointOfSales.DataBarangTableAdapters.TableAdapterManager.UpdateAll(PointOfSales.DataBarang)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PointOfSales.DataBarangTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PointOfSales.DataBarangTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PointOfSales.DataBarangTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PointOfSales.DataSet2.cbo_supplierDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PointOfSales.DataSet2.cbo_supplierRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PointOfSales.DataSet2.cbo_supplierRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PointOfSales.DataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PointOfSales.DataSet2TableAdapters.cbo_supplierTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PointOfSales.DataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(PointOfSales.DataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PointOfSales.DataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(PointOfSales.DataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PointOfSales.DataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(PointOfSales.DataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PointOfSales.DataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PointOfSales.DataSet2TableAdapters.TableAdapterManager.UpdateAll(PointOfSales.DataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PointOfSales.DataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PointOfSales.DataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PointOfSales.DataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PointOfSales.DataAkun.cbo_akunDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PointOfSales.DataAkun.cbo_akunRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PointOfSales.DataAkun.cbo_akunRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PointOfSales.DataAkun">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PointOfSales.DataAkunTableAdapters.cbo_akunTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PointOfSales.DataAkunTableAdapters.TableAdapterManager.UpdateUpdatedRows(PointOfSales.DataAkun,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PointOfSales.DataAkunTableAdapters.TableAdapterManager.UpdateInsertedRows(PointOfSales.DataAkun,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PointOfSales.DataAkunTableAdapters.TableAdapterManager.UpdateDeletedRows(PointOfSales.DataAkun,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PointOfSales.DataAkunTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PointOfSales.DataAkunTableAdapters.TableAdapterManager.UpdateAll(PointOfSales.DataAkun)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PointOfSales.DataAkunTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PointOfSales.DataAkunTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PointOfSales.DataAkunTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:PointOfSales.DSNotaSO">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources._10001454_1412525142338942_173576377_n">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources._1148939_1415325112058945_1376435035_n">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources._1315210517_Windows_HD1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.abstract_colour_background_orange_wallpaper_1280x768">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.abstract_colour_background_orange_wallpaper_1280x7681">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.Accounts">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.Accounts1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.Arrow">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.Arrow2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.arrow3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.Background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.background_black">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.background_new">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.background2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.background2___Copy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.background3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.banking">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.banking1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.barang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.baru">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.bayar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.bfb92538_5fb1_4466_9e9d_5b0dac065352__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.bg_01">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.black_white_metro_data_backup_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.black_white_metro_restore_window_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.byr_hutang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.Cancel_24x24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.cari">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.cash_his">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.Command">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.Customer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.daftar_master">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.data_barang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.Delete_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.faktur">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.gudang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.hapus">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.Help_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.home">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.home1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.info">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.inventory">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.inventory1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.jenis">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.kategori">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.Key_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.Key_24x24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.konversi_unit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.konvert_matauang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.koreksi_stok">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.kredit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.lebur">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.list_barang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.login">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.login1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.loginform3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.Logo_Small">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.Logo_Small1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.master">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.master1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.mata_uang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.New_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.New_Login">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.New_Login___Copy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.New_Login2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.opname">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.pegawai">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.pic01">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.pindah_gudang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.print">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.Print_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.purchase">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.purchase1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.received_item">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.Refresh_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.rekon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.reparasi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.report">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.report1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.reset">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.retur">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.ro">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.saldo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.sales">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.sales1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.salon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.salon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.salon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.salon3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.Save_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.services">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.Settings_256x256">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.Settings_48x48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.simpan">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.spa_wellness">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.spa_wellness1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.status_credit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.std_report">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.stock_report">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.suppier">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.terima">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.timer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.tutup">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.unit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.Untitled_4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.Untitled_9">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.User_24x24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PointOfSales.My.Resources.Resources.wihtdrawal_256">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:PointOfSales.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

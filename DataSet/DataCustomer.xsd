@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataCustomer" targetNamespace="http://tempuri.org/DataCustomer.xsd" xmlns:mstns="http://tempuri.org/DataCustomer.xsd" xmlns="http://tempuri.org/DataCustomer.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConnectionString (MySettings)" PropertyReference="ApplicationSettings.SMARTACCOUNTING.My.MySettings.GlobalReference.Default.ConnectionString" Provider="System.Data.Odbc" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="cbo_report_customerTableAdapter" GeneratorDataComponentClassName="cbo_report_customerTableAdapter" Name="cbo_report_customer" UserDataComponentName="cbo_report_customerTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (MySettings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>select id_customer as ID,
+concat(first_name,' ',last_name) as Nama
+from mst_customer
+order by id_customer</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="ID" DataSetColumn="ID" />
+              <Mapping SourceColumn="Nama" DataSetColumn="Nama" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="cbo_report_cust_kotaTableAdapter" GeneratorDataComponentClassName="cbo_report_cust_kotaTableAdapter" Name="cbo_report_cust_kota" UserDataComponentName="cbo_report_cust_kotaTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (MySettings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>select 
+city as Kota,
+count(city) as Jumlah
+from mst_customer
+group by city
+order by city asc</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Kota" DataSetColumn="Kota" />
+              <Mapping SourceColumn="Jumlah" DataSetColumn="Jumlah" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="cbo_report_cust_serviceTableAdapter" GeneratorDataComponentClassName="cbo_report_cust_serviceTableAdapter" Name="cbo_report_cust_service" UserDataComponentName="cbo_report_cust_serviceTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (MySettings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>select distinct
+case when a.customer is null then concat(c.first_name,' ',c.last_name) else a.customer end as nama_customer
+from trn_cashier_head a 
+left join mst_customer c on c.id_customer = a.id_customer </CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="nama_customer" DataSetColumn="nama_customer" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Customer" GeneratorDataComponentClassName="Customer" Name="Customer" UserDataComponentName="Customer">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (MySettings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>select * from mst_customer</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="id_customer" DataSetColumn="id_customer" />
+              <Mapping SourceColumn="first_name" DataSetColumn="first_name" />
+              <Mapping SourceColumn="last_name" DataSetColumn="last_name" />
+              <Mapping SourceColumn="address" DataSetColumn="address" />
+              <Mapping SourceColumn="city" DataSetColumn="city" />
+              <Mapping SourceColumn="state" DataSetColumn="state" />
+              <Mapping SourceColumn="postal_code" DataSetColumn="postal_code" />
+              <Mapping SourceColumn="country" DataSetColumn="country" />
+              <Mapping SourceColumn="phone1" DataSetColumn="phone1" />
+              <Mapping SourceColumn="phone2" DataSetColumn="phone2" />
+              <Mapping SourceColumn="phone3" DataSetColumn="phone3" />
+              <Mapping SourceColumn="fax" DataSetColumn="fax" />
+              <Mapping SourceColumn="email" DataSetColumn="email" />
+              <Mapping SourceColumn="website" DataSetColumn="website" />
+              <Mapping SourceColumn="photo" DataSetColumn="photo" />
+              <Mapping SourceColumn="credit_limit" DataSetColumn="credit_limit" />
+              <Mapping SourceColumn="notes" DataSetColumn="notes" />
+              <Mapping SourceColumn="id_account" DataSetColumn="id_account" />
+              <Mapping SourceColumn="def_due_date" DataSetColumn="def_due_date" />
+              <Mapping SourceColumn="def_payment_method" DataSetColumn="def_payment_method" />
+              <Mapping SourceColumn="status" DataSetColumn="status" />
+              <Mapping SourceColumn="modified_user" DataSetColumn="modified_user" />
+              <Mapping SourceColumn="created_date" DataSetColumn="created_date" />
+              <Mapping SourceColumn="modified_date" DataSetColumn="modified_date" />
+              <Mapping SourceColumn="created_user" DataSetColumn="created_user" />
+              <Mapping SourceColumn="ar_balance" DataSetColumn="ar_balance" />
+              <Mapping SourceColumn="id_barcode" DataSetColumn="id_barcode" />
+              <Mapping SourceColumn="flag_credit_limit" DataSetColumn="flag_credit_limit" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataCustomer" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataCustomer" msprop:Generator_UserDSName="DataCustomer">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="cbo_report_customer" msprop:Generator_TableClassName="cbo_report_customerDataTable" msprop:Generator_RowEvArgName="cbo_report_customerRowChangeEvent" msprop:Generator_TableVarName="tablecbo_report_customer" msprop:Generator_TablePropName="cbo_report_customer" msprop:Generator_RowDeletingName="cbo_report_customerRowDeleting" msprop:Generator_RowChangingName="cbo_report_customerRowChanging" msprop:Generator_RowEvHandlerName="cbo_report_customerRowChangeEventHandler" msprop:Generator_RowDeletedName="cbo_report_customerRowDeleted" msprop:Generator_UserTableName="cbo_report_customer" msprop:Generator_RowChangedName="cbo_report_customerRowChanged" msprop:Generator_RowClassName="cbo_report_customerRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" msprop:Generator_UserColumnName="ID">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Nama" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnNama" msprop:Generator_ColumnPropNameInRow="Nama" msprop:Generator_ColumnPropNameInTable="NamaColumn" msprop:Generator_UserColumnName="Nama" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="121" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="cbo_report_cust_kota" msprop:Generator_TableClassName="cbo_report_cust_kotaDataTable" msprop:Generator_RowEvArgName="cbo_report_cust_kotaRowChangeEvent" msprop:Generator_TableVarName="tablecbo_report_cust_kota" msprop:Generator_TablePropName="cbo_report_cust_kota" msprop:Generator_RowDeletingName="cbo_report_cust_kotaRowDeleting" msprop:Generator_RowChangingName="cbo_report_cust_kotaRowChanging" msprop:Generator_RowEvHandlerName="cbo_report_cust_kotaRowChangeEventHandler" msprop:Generator_RowDeletedName="cbo_report_cust_kotaRowDeleted" msprop:Generator_UserTableName="cbo_report_cust_kota" msprop:Generator_RowChangedName="cbo_report_cust_kotaRowChanged" msprop:Generator_RowClassName="cbo_report_cust_kotaRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Kota" msprop:Generator_ColumnVarNameInTable="columnKota" msprop:Generator_ColumnPropNameInRow="Kota" msprop:Generator_ColumnPropNameInTable="KotaColumn" msprop:Generator_UserColumnName="Kota" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="120" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Jumlah" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnJumlah" msprop:Generator_ColumnPropNameInRow="Jumlah" msprop:Generator_ColumnPropNameInTable="JumlahColumn" msprop:Generator_UserColumnName="Jumlah" type="xs:long" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="cbo_report_cust_service" msprop:Generator_TableClassName="cbo_report_cust_serviceDataTable" msprop:Generator_TableVarName="tablecbo_report_cust_service" msprop:Generator_TablePropName="cbo_report_cust_service" msprop:Generator_RowDeletingName="cbo_report_cust_serviceRowDeleting" msprop:Generator_RowChangingName="cbo_report_cust_serviceRowChanging" msprop:Generator_RowEvHandlerName="cbo_report_cust_serviceRowChangeEventHandler" msprop:Generator_RowDeletedName="cbo_report_cust_serviceRowDeleted" msprop:Generator_UserTableName="cbo_report_cust_service" msprop:Generator_RowChangedName="cbo_report_cust_serviceRowChanged" msprop:Generator_RowEvArgName="cbo_report_cust_serviceRowChangeEvent" msprop:Generator_RowClassName="cbo_report_cust_serviceRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nama_customer" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnnama_customer" msprop:Generator_ColumnPropNameInRow="nama_customer" msprop:Generator_ColumnPropNameInTable="nama_customerColumn" msprop:Generator_UserColumnName="nama_customer" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="375" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Customer" msprop:Generator_TableClassName="CustomerDataTable" msprop:Generator_TableVarName="tableCustomer" msprop:Generator_RowChangedName="CustomerRowChanged" msprop:Generator_TablePropName="Customer" msprop:Generator_RowDeletingName="CustomerRowDeleting" msprop:Generator_RowChangingName="CustomerRowChanging" msprop:Generator_RowEvHandlerName="CustomerRowChangeEventHandler" msprop:Generator_RowDeletedName="CustomerRowDeleted" msprop:Generator_RowClassName="CustomerRow" msprop:Generator_UserTableName="Customer" msprop:Generator_RowEvArgName="CustomerRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_customer" msprop:Generator_ColumnVarNameInTable="columnid_customer" msprop:Generator_ColumnPropNameInRow="id_customer" msprop:Generator_ColumnPropNameInTable="id_customerColumn" msprop:Generator_UserColumnName="id_customer">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="37" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="first_name" msprop:Generator_ColumnVarNameInTable="columnfirst_name" msprop:Generator_ColumnPropNameInRow="first_name" msprop:Generator_ColumnPropNameInTable="first_nameColumn" msprop:Generator_UserColumnName="first_name" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="90" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="last_name" msprop:Generator_ColumnVarNameInTable="columnlast_name" msprop:Generator_ColumnPropNameInRow="last_name" msprop:Generator_ColumnPropNameInTable="last_nameColumn" msprop:Generator_UserColumnName="last_name" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="90" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="address" msprop:Generator_ColumnVarNameInTable="columnaddress" msprop:Generator_ColumnPropNameInRow="address" msprop:Generator_ColumnPropNameInTable="addressColumn" msprop:Generator_UserColumnName="address" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="382" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="city" msprop:Generator_ColumnVarNameInTable="columncity" msprop:Generator_ColumnPropNameInRow="city" msprop:Generator_ColumnPropNameInTable="cityColumn" msprop:Generator_UserColumnName="city" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="180" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="state" msprop:Generator_ColumnVarNameInTable="columnstate" msprop:Generator_ColumnPropNameInRow="state" msprop:Generator_ColumnPropNameInTable="stateColumn" msprop:Generator_UserColumnName="state" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="382" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="postal_code" msprop:Generator_ColumnVarNameInTable="columnpostal_code" msprop:Generator_ColumnPropNameInRow="postal_code" msprop:Generator_ColumnPropNameInTable="postal_codeColumn" msprop:Generator_UserColumnName="postal_code" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="37" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="country" msprop:Generator_ColumnVarNameInTable="columncountry" msprop:Generator_ColumnPropNameInRow="country" msprop:Generator_ColumnPropNameInTable="countryColumn" msprop:Generator_UserColumnName="country" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="180" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="phone1" msprop:Generator_ColumnVarNameInTable="columnphone1" msprop:Generator_ColumnPropNameInRow="phone1" msprop:Generator_ColumnPropNameInTable="phone1Column" msprop:Generator_UserColumnName="phone1" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="90" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="phone2" msprop:Generator_ColumnVarNameInTable="columnphone2" msprop:Generator_ColumnPropNameInRow="phone2" msprop:Generator_ColumnPropNameInTable="phone2Column" msprop:Generator_UserColumnName="phone2" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="90" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="phone3" msprop:Generator_ColumnVarNameInTable="columnphone3" msprop:Generator_ColumnPropNameInRow="phone3" msprop:Generator_ColumnPropNameInTable="phone3Column" msprop:Generator_UserColumnName="phone3" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="90" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="fax" msprop:Generator_ColumnVarNameInTable="columnfax" msprop:Generator_ColumnPropNameInRow="fax" msprop:Generator_ColumnPropNameInTable="faxColumn" msprop:Generator_UserColumnName="fax" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="90" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="email" msprop:Generator_ColumnVarNameInTable="columnemail" msprop:Generator_ColumnPropNameInRow="email" msprop:Generator_ColumnPropNameInTable="emailColumn" msprop:Generator_UserColumnName="email" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="180" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="website" msprop:Generator_ColumnVarNameInTable="columnwebsite" msprop:Generator_ColumnPropNameInRow="website" msprop:Generator_ColumnPropNameInTable="websiteColumn" msprop:Generator_UserColumnName="website" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="180" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="photo" msprop:Generator_ColumnVarNameInTable="columnphoto" msprop:Generator_ColumnPropNameInRow="photo" msprop:Generator_ColumnPropNameInTable="photoColumn" msprop:Generator_UserColumnName="photo" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="32767" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="credit_limit" msprop:Generator_ColumnVarNameInTable="columncredit_limit" msprop:Generator_ColumnPropNameInRow="credit_limit" msprop:Generator_ColumnPropNameInTable="credit_limitColumn" msprop:Generator_UserColumnName="credit_limit" type="xs:double" minOccurs="0" />
+              <xs:element name="notes" msprop:Generator_ColumnVarNameInTable="columnnotes" msprop:Generator_ColumnPropNameInRow="notes" msprop:Generator_ColumnPropNameInTable="notesColumn" msprop:Generator_UserColumnName="notes" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="32767" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="id_account" msprop:Generator_ColumnVarNameInTable="columnid_account" msprop:Generator_ColumnPropNameInRow="id_account" msprop:Generator_ColumnPropNameInTable="id_accountColumn" msprop:Generator_UserColumnName="id_account">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="37" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="def_due_date" msprop:Generator_ColumnVarNameInTable="columndef_due_date" msprop:Generator_ColumnPropNameInRow="def_due_date" msprop:Generator_ColumnPropNameInTable="def_due_dateColumn" msprop:Generator_UserColumnName="def_due_date" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="def_payment_method" msprop:Generator_ColumnVarNameInTable="columndef_payment_method" msprop:Generator_ColumnPropNameInRow="def_payment_method" msprop:Generator_ColumnPropNameInTable="def_payment_methodColumn" msprop:Generator_UserColumnName="def_payment_method" type="xs:int" minOccurs="0" />
+              <xs:element name="status" msprop:Generator_ColumnVarNameInTable="columnstatus" msprop:Generator_ColumnPropNameInRow="status" msprop:Generator_ColumnPropNameInTable="statusColumn" msprop:Generator_UserColumnName="status" type="xs:int" minOccurs="0" />
+              <xs:element name="modified_user" msprop:Generator_ColumnVarNameInTable="columnmodified_user" msprop:Generator_ColumnPropNameInRow="modified_user" msprop:Generator_ColumnPropNameInTable="modified_userColumn" msprop:Generator_UserColumnName="modified_user" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="180" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="created_date" msprop:Generator_ColumnVarNameInTable="columncreated_date" msprop:Generator_ColumnPropNameInRow="created_date" msprop:Generator_ColumnPropNameInTable="created_dateColumn" msprop:Generator_UserColumnName="created_date" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="modified_date" msprop:Generator_ColumnVarNameInTable="columnmodified_date" msprop:Generator_ColumnPropNameInRow="modified_date" msprop:Generator_ColumnPropNameInTable="modified_dateColumn" msprop:Generator_UserColumnName="modified_date" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="created_user" msprop:Generator_ColumnVarNameInTable="columncreated_user" msprop:Generator_ColumnPropNameInRow="created_user" msprop:Generator_ColumnPropNameInTable="created_userColumn" msprop:Generator_UserColumnName="created_user" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="180" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ar_balance" msprop:Generator_ColumnVarNameInTable="columnar_balance" msprop:Generator_ColumnPropNameInRow="ar_balance" msprop:Generator_ColumnPropNameInTable="ar_balanceColumn" msprop:Generator_UserColumnName="ar_balance" type="xs:double" minOccurs="0" />
+              <xs:element name="id_barcode" msprop:Generator_ColumnVarNameInTable="columnid_barcode" msprop:Generator_ColumnPropNameInRow="id_barcode" msprop:Generator_ColumnPropNameInTable="id_barcodeColumn" msprop:Generator_UserColumnName="id_barcode" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="300" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="flag_credit_limit" msprop:Generator_ColumnVarNameInTable="columnflag_credit_limit" msprop:Generator_ColumnPropNameInRow="flag_credit_limit" msprop:Generator_ColumnPropNameInTable="flag_credit_limitColumn" msprop:Generator_UserColumnName="flag_credit_limit" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:cbo_report_customer" />
+      <xs:field xpath="mstns:ID" />
+    </xs:unique>
+    <xs:unique name="Customer_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Customer" />
+      <xs:field xpath="mstns:id_customer" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

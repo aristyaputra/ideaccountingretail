@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="POS_Enterperise1.0">
+</Property><Property Name="Solution File" Value="E:\Desktop Project\VB.NET\POS System - Copy - Copy\POS_Enterperise1.0\POS_Enterperise1.0.sln">
+</Property><Property Name="Date" Value="14 Juni 2014">
+</Property><Property Name="Time" Value="14:28">
+</Property></Properties><Event ErrorLevel="4" Project="POS_Enterprise1.0" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="Warning: this project requires Crystal Reports, which is no longer included with Visual Studio. Please click here for more information.">
+</Event><Event ErrorLevel="0" Project="POS_Enterprise1.0" Source="POS_Enterprise1.0.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="POS_Enterprise1.0" Source="POS_Enterprise1.0.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="POS_Enterperise1.0.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="POS_Enterperise1.0.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="POS_Enterprise1.0" Source="POS_Enterprise1.0.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

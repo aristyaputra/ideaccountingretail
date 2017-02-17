@@ -1,0 +1,361 @@
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\bin\Debug\SMARTACCOUNTING.exe.config
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SmartAccounting.vbproj.ResolveComReference.cache
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\bin\Debug\SMARTACCOUNTING.exe
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\bin\Debug\SMARTACCOUNTING.pdb
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\bin\Debug\SMARTACCOUNTING.xml
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\bin\Debug\DevComponents.DotNetBar2.xml
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\bin\Debug\DevComponents.Instrumentation.xml
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\bin\Debug\stdole.dll
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SmartAccounting.vbprojResolveAssemblyReference.cache
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormCtkAdjustJurnal.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmsetcoa_depProduksi.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.SetModule.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormCtkBKK.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormCtkBKM.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmassemblyitem.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmRealisasiWO.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmMaterialUsage.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmWO.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormCtkPay.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormCtkPayAr.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormCtkPayAp.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormReportProduksi.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.CleansingDB.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmsetupcashflow.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.autoBackup.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.SendEmail.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmpurchase_langsung.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.SplashScreen.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmEventAttendance.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmEventMember.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmEvent.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmsetcadhutang.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.LapBukuBesar.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.LapJurnal.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmadjustjournal.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmsetcadpiutang.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmFakturPajak.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormLapAkumDepr.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmchangephoto.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmpenyusutanaset.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmsimulasiaset.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmsetcoa_aset.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormReportCash.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormCtkJurnal.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormReportAcc.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmsetcoa.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmsetupcashbank.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frm_set_init.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.UserRight.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormLapCashierReg.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmcashierregister.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormCtkReconcile.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormLapCashReg.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormCtkBBK.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormCtkBBM.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frm_display_cashier.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frm_display_material.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frm_display_ro.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frm_display_acc_cashier.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frm_display_acc_cash.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmstdcost.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.LapCOA.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmgolaset.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmaset.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmekspedisi.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmbrandbarang.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmsetmarketing.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.LoginFormSambung.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormLapDepr.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormNotaEkspedisi.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmBayarEkspedisi.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormNotaUM.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmDPso.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmar_initbalance.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmap_initbalance.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmsupplier2.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmmarketing2.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmcustomer2.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.LapMaster.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormReportMaster.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmCurrency.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmcustomer.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmitem.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmjenisbarang.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmkatbarang.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmmarketing.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmservice.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmsupplier.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmUnit.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmWH.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.ClosedPeriod.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.MainMenu.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmcashier.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmpurchase_direct.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormNotaReceivedOrder.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmRecOrder.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormNotaRO.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmApproveRO.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmRO.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.LapPembelian.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormPayment.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormReportPurch.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormReturBeli.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormFakturBeli.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormNotaPO.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmbom.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmcashierreturn.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormReturCashier.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormFakturCashier.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormFakturService.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormReportSales2.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormNotaDO.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormReportSales.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormReturJual.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormFakturJual.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormNotaSO.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmDeliveredItem.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.DialogActivated.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmlog.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormCtkTran.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormCtkKoreksi.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormCtkOpname.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormReportStock.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmitemtransfer.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frm_display_sales.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormServiceReport.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frm_display_po.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frm_display_purchase.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.LoginForm.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.backup.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FormPassword.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frm_path_setup.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.restore.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frm_display_so.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frm_display_supp.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frm_display_unit.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frm_display_cust.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frm_display_service.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frm_display_item.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frm_display_brand.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frm_display_category.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frm_display_acc_detail.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmadjuststock.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmAPList.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmARList.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmcashregister.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmcoa.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmitem_beginning.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmjournal.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmledger.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmpayAP.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmpayAR.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmpo.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmpurchase.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmpurc_return.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmreceiptmoney.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmreconcile.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmsales.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmsalesreturn.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmso.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmspendmoney.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frmstockopname.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.FrmCommandPanel.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.frm_display_grupacc.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.Resources.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.WaitForm1.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SmartAccounting.vbproj.GenerateResource.Cache
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.exe.licenses
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.exe
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.xml
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.pdb
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software\obj\Debug\SMARTACCOUNTING.Start.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - Basic\bin\Debug\SMARTACCOUNTING.exe.config
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - Basic\obj\Debug\SmartAccounting.vbproj.ResolveComReference.cache
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - Basic\obj\Debug\SMARTACCOUNTING.exe
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - Basic\obj\Debug\SMARTACCOUNTING.xml
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - Basic\obj\Debug\SMARTACCOUNTING.pdb
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\bin\Debug\SMARTACCOUNTING.exe.config
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SmartAccounting.vbproj.ResolveComReference.cache
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.exe
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.xml
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.pdb
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\bin\Debug\SMARTACCOUNTING.exe
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\bin\Debug\SMARTACCOUNTING.pdb
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\bin\Debug\SMARTACCOUNTING.xml
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\bin\Debug\stdole.dll
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SmartAccounting.vbprojResolveAssemblyReference.cache
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormCtkAdjustJurnal.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmsetcoa_depProduksi.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.SetModule.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormCtkBKK.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormCtkBKM.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmassemblyitem.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmRealisasiWO.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmMaterialUsage.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmWO.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.Start.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormCtkPay.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormCtkPayAr.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormCtkPayAp.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormReportProduksi.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.CleansingDB.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmsetupcashflow.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.autoBackup.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.SendEmail.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmpurchase_langsung.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.SplashScreen.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmEventAttendance.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmEventMember.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmEvent.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmsetcadhutang.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.LapBukuBesar.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.LapJurnal.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmadjustjournal.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmsetcadpiutang.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmFakturPajak.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormLapAkumDepr.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmchangephoto.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmpenyusutanaset.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmsimulasiaset.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmsetcoa_aset.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormReportCash.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormCtkJurnal.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormReportAcc.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmsetcoa.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmsetupcashbank.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frm_set_init.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.UserRight.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormLapCashierReg.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmcashierregister.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormCtkReconcile.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormLapCashReg.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormCtkBBK.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormCtkBBM.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frm_display_cashier.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frm_display_material.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frm_display_ro.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frm_display_acc_cashier.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frm_display_acc_cash.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmstdcost.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.LapCOA.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmgolaset.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmaset.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmekspedisi.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmbrandbarang.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmsetmarketing.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.LoginFormSambung.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormLapDepr.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormNotaEkspedisi.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmBayarEkspedisi.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormNotaUM.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmDPso.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmar_initbalance.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmap_initbalance.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmsupplier2.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmmarketing2.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmcustomer2.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.LapMaster.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormReportMaster.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmCurrency.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmcustomer.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmitem.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmjenisbarang.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmkatbarang.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmmarketing.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmservice.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmsupplier.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmUnit.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmWH.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.ClosedPeriod.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.MainMenu.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmcashier.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmpurchase_direct.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormNotaReceivedOrder.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmRecOrder.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormNotaRO.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmApproveRO.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmRO.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.LapPembelian.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormPayment.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormReportPurch.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormReturBeli.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormFakturBeli.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormNotaPO.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmbom.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmcashierreturn.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormReturCashier.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormFakturCashier.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormFakturService.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormReportSales2.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormNotaDO.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormReportSales.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormReturJual.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormFakturJual.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormNotaSO.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmDeliveredItem.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.DialogActivated.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmlog.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormCtkTran.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormCtkKoreksi.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormCtkOpname.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormReportStock.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmitemtransfer.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frm_display_sales.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormServiceReport.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frm_display_po.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frm_display_purchase.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.LoginForm.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.backup.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FormPassword.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frm_path_setup.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.restore.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frm_display_so.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frm_display_supp.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frm_display_unit.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frm_display_cust.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frm_display_service.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frm_display_item.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frm_display_brand.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frm_display_category.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frm_display_acc_detail.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmadjuststock.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmAPList.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmARList.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmcashregister.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmcoa.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmitem_beginning.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmjournal.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmledger.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmpayAP.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmpayAR.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmpo.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmpurchase.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmpurc_return.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmreceiptmoney.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmreconcile.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmsales.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmsalesreturn.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmso.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmspendmoney.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmstockopname.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.FrmCommandPanel.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frm_display_grupacc.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.Resources.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.WaitForm1.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SmartAccounting.vbproj.GenerateResource.Cache
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.exe.licenses
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmdirectpurch.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmPayUMPO.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmBayarPinjam.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmPinjam.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.frmsetkode.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.NotaBayarKoperasi.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.NotaKoperasi.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.NotaLunasKoperasi.resources
+D:\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.RegisterSoftware.resources
+D:\DATA KERJA\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\bin\Debug\SMARTACCOUNTING.exe.config
+D:\DATA KERJA\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SmartAccounting.vbproj.ResolveComReference.cache
+D:\DATA KERJA\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.exe
+D:\DATA KERJA\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.xml
+D:\DATA KERJA\SMARTSOFTWARE\IBAS_PROJECT\Smart Accounting Software - General Retail\obj\Debug\SMARTACCOUNTING.pdb

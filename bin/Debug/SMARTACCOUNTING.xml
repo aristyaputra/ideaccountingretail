@@ -1,0 +1,1000 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SMARTACCOUNTING
+</name>
+</assembly>
+<members>
+<member name="T:SMARTACCOUNTING.DataCustomer.cbo_report_customerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataCustomer.cbo_report_cust_kotaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataCustomer.cbo_report_cust_serviceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataCustomer.CustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataCustomer.cbo_report_customerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataCustomer.cbo_report_cust_kotaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataCustomer.cbo_report_cust_serviceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataCustomer.CustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataCustomer.cbo_report_customerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataCustomer.cbo_report_cust_kotaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataCustomer.cbo_report_cust_serviceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataCustomer.CustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataCustomer">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataCustomerTableAdapters.cbo_report_customerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataCustomerTableAdapters.cbo_report_cust_kotaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataCustomerTableAdapters.cbo_report_cust_serviceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataCustomerTableAdapters.Customer">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SMARTACCOUNTING.DataCustomerTableAdapters.TableAdapterManager.UpdateUpdatedRows(SMARTACCOUNTING.DataCustomer,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SMARTACCOUNTING.DataCustomerTableAdapters.TableAdapterManager.UpdateInsertedRows(SMARTACCOUNTING.DataCustomer,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SMARTACCOUNTING.DataCustomerTableAdapters.TableAdapterManager.UpdateDeletedRows(SMARTACCOUNTING.DataCustomer,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SMARTACCOUNTING.DataCustomerTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SMARTACCOUNTING.DataCustomerTableAdapters.TableAdapterManager.UpdateAll(SMARTACCOUNTING.DataCustomer)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataCustomerTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataCustomerTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataCustomerTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.ListJualDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.ListJualPinjamDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.ListPinjamanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.NotaCashierDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.LapPenjualanMasukDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.DirectPurchaseHeadDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.DirectPurchaseDetDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.CashierHeadDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.CashierDetDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.DetailGroupPurchDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.DetailGroupSalesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.ar_viewDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.view_ar_pesananDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.Cashier_Pajak_HeadDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.Cashier_Pajak_DetDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.DirectPurchaseHead_PajakDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.DirectPurchaseDet_PajakDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.DetailGroupSalesPajakDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.DetailGroupPurchPajakDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.Pesanan_HeadDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.Pesanan_DetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.Lap_KoperasiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.TanpaNota_HeadDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.TanpaNota_DetDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.DetailGroup_TNPDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.ListJualRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.ListJualPinjamRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.ListPinjamanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.NotaCashierRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.LapPenjualanMasukRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.DirectPurchaseHeadRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.DirectPurchaseDetRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.CashierHeadRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.CashierDetRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.DetailGroupPurchRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.DetailGroupSalesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.ar_viewRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.view_ar_pesananRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.Cashier_Pajak_HeadRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.Cashier_Pajak_DetRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.DirectPurchaseHead_PajakRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.DirectPurchaseDet_PajakRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.DetailGroupSalesPajakRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.DetailGroupPurchPajakRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.Pesanan_HeadRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.Pesanan_DetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.Lap_KoperasiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.TanpaNota_HeadRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.TanpaNota_DetRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.DetailGroup_TNPRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.ListJualRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.ListJualPinjamRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.ListPinjamanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.NotaCashierRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.LapPenjualanMasukRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.DirectPurchaseHeadRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.DirectPurchaseDetRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.CashierHeadRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.CashierDetRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.DetailGroupPurchRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.DetailGroupSalesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.ar_viewRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.view_ar_pesananRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.Cashier_Pajak_HeadRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.Cashier_Pajak_DetRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.DirectPurchaseHead_PajakRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.DirectPurchaseDet_PajakRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.DetailGroupSalesPajakRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.DetailGroupPurchPajakRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.Pesanan_HeadRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.Pesanan_DetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.Lap_KoperasiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.TanpaNota_HeadRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.TanpaNota_DetRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan.DetailGroup_TNPRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualan">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualanTableAdapters.ListJual">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualanTableAdapters.ListJualPinjam">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualanTableAdapters.ListPinjamanTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualanTableAdapters.NotaCashier">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualanTableAdapters.LapPenjualanMasuk">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualanTableAdapters.DirectPurchaseHead">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualanTableAdapters.DirectPurchaseDet">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualanTableAdapters.CashierHead">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualanTableAdapters.CashierDet">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualanTableAdapters.DetailGroupPurch">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualanTableAdapters.DetailGroupSales">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualanTableAdapters.ar_view">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualanTableAdapters.view_ar_pesanan">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualanTableAdapters.Cashier_Pajak_HeadTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualanTableAdapters.Cashier_Pajak_DetTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualanTableAdapters.DirectPurchaseHead_PajakTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualanTableAdapters.DirectPurchaseDet_PajakTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualanTableAdapters.DetailGroupSalesPajakTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualanTableAdapters.DetailGroupPurchPajakTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualanTableAdapters.Pesanan_HeadTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualanTableAdapters.Pesanan_DetailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualanTableAdapters.Lap_KoperasiTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualanTableAdapters.TanpaNota_HeadTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualanTableAdapters.TanpaNota_DetTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualanTableAdapters.DetailGroup_TNPTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SMARTACCOUNTING.DataPenjualanTableAdapters.TableAdapterManager.UpdateUpdatedRows(SMARTACCOUNTING.DataPenjualan,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SMARTACCOUNTING.DataPenjualanTableAdapters.TableAdapterManager.UpdateInsertedRows(SMARTACCOUNTING.DataPenjualan,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SMARTACCOUNTING.DataPenjualanTableAdapters.TableAdapterManager.UpdateDeletedRows(SMARTACCOUNTING.DataPenjualan,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SMARTACCOUNTING.DataPenjualanTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SMARTACCOUNTING.DataPenjualanTableAdapters.TableAdapterManager.UpdateAll(SMARTACCOUNTING.DataPenjualan)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualanTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualanTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SMARTACCOUNTING.DataPenjualanTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources._3d_graph_SH">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources._next">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.accounting_cycle">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Actions_session_exit_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Actions_session_exit_icon__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Actions_session_exit_icon__1_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Actions_session_exit_icon__1_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Actions_session_exit_icon__1_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Actions_session_exit_icon__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Actions_session_exit_icon__3_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Actions_session_exit_icon__3_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.add">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.analyst_report">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.ap_report">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Arrow">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.arrow_circle_double">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Arrow2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.arrow3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.background_black">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Background1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.background2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.barang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.baru">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.bayar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.calculator_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Cancel_24x24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Capture">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.cari">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.cash_his">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.cash_register">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Check_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Close_Period">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Command">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Customer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.daftar_master">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.data_barang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Delete_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Delete_16x161">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.excel_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.faktur">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.forgot_password">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.gudang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.hapus">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Help_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.home">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.home1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.info">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.infocard">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.information_button">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.jenis">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.kategori">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Key_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Key_24x24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.konversi_unit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.konvert_matauang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.koreksi_stok">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.kredit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.lebur">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.list_barang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.login1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.logo_and_text_xsmall_fixed">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.mata_uang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.New_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Next_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Next_24x24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.no_image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Open_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.opname">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.payment">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.pegawai">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.piaccountingsmall">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.pindah_gudang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.previous">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Previous_24x24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.print">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Print_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Print_16x161">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Properties_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.received_item">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Refresh_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.rekon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.reparasi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.REPLIKA1_mgWbSm8ZFbpApNKCkqUlv7N7p0HZC2yyiUaBHikXKaiAx2MhsqToyqvorDN3FL2yqdA8MufgUNqSPDAI4d62U2qLGEPWaSUQ5fY">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.report">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.report1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.reset">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.retur">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.ro">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.saldo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Save_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Save_16x161">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.save_time">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Search_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Send_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.services">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Settings_48x48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.simpan">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.so">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.spa_wellness">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.status_credit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.std_report">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.stock_report">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.suppier">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.terima">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.timer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.tutup">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.unit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.Upload_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SMARTACCOUNTING.My.Resources.Resources.User_24x24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:SMARTACCOUNTING.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,907 @@
+C:\Users\idc\AppData\Local\Temporary Projects\SalonSpa\bin\Debug\SalonSpa.exe
+C:\Users\idc\AppData\Local\Temporary Projects\SalonSpa\bin\Debug\SalonSpa.pdb
+C:\Users\idc\AppData\Local\Temporary Projects\SalonSpa\bin\Debug\SalonSpa.xml
+C:\Users\idc\AppData\Local\Temporary Projects\SalonSpa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\idc\AppData\Local\Temporary Projects\SalonSpa\obj\Debug\SalonSpa.Resources.resources
+C:\Users\idc\AppData\Local\Temporary Projects\SalonSpa\obj\Debug\SalonSpa.vbproj.GenerateResource.Cache
+C:\Users\idc\AppData\Local\Temporary Projects\SalonSpa\obj\Debug\SalonSpa.exe
+C:\Users\idc\AppData\Local\Temporary Projects\SalonSpa\obj\Debug\SalonSpa.xml
+C:\Users\idc\AppData\Local\Temporary Projects\SalonSpa\obj\Debug\SalonSpa.pdb
+C:\Users\idc\AppData\Local\Temporary Projects\SalonSpa\obj\Debug\SalonSpa.FrmCommandPanel.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.exe
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.xml
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.pdb
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.exe
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.pdb
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.xml
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\ResolveAssemblyReference.cache
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FrmCommandPanel.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.Resources.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.vbproj.GenerateResource.Cache
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcustomer.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmmarketing.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsupplier.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmlistcard.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcommission.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpo.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurchase.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAP.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmAPList.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmso.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsales.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmARList.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem_beginning.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmstockopname.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmadjuststock.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsetprice.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmspendmoney.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreceiptmoney.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcashregister.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreconcile.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcoa.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmjournal.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmledger.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmalljournal.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAR.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalesreturn.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurc_return.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalonservice.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.exe
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.xml
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.pdb
+D:\Source Codes\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.exe
+D:\Source Codes\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.pdb
+D:\Source Codes\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.xml
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\ResolveAssemblyReference.cache
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmadjuststock.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmalljournal.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmAPList.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmARList.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcashregister.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcoa.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcommission.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem_beginning.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmjournal.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmledger.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmlistcard.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmmarketing.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAP.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAR.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpo.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurchase.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurc_return.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreceiptmoney.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreconcile.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsales.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalesreturn.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalonservice.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsetprice.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmso.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmspendmoney.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmstockopname.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsupplier.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FrmCommandPanel.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcustomer.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.Resources.resources
+D:\Source Codes\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.vbproj.GenerateResource.Cache
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.exe
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.xml
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.pdb
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.exe
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.pdb
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.xml
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\ResolveAssemblyReference.cache
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmadjuststock.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmalljournal.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmAPList.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmARList.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcashregister.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcoa.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcommission.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem_beginning.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmjournal.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmledger.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmlistcard.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmmarketing.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAP.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAR.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpo.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurchase.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurc_return.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreceiptmoney.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreconcile.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsales.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalesreturn.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalonservice.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsetprice.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmso.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmspendmoney.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmstockopname.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsupplier.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FrmCommandPanel.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcustomer.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.Resources.resources
+I:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.vbproj.GenerateResource.Cache
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.exe
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.xml
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.pdb
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\ResolveAssemblyReference.cache
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmadjuststock.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmalljournal.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmAPList.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmARList.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcashregister.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcoa.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcommission.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem_beginning.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmjournal.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmledger.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmlistcard.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmmarketing.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAP.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAR.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpo.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurchase.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurc_return.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreceiptmoney.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreconcile.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsales.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalesreturn.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalonservice.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsetprice.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmso.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmspendmoney.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmstockopname.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsupplier.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FrmCommandPanel.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcustomer.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.Resources.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.vbproj.GenerateResource.Cache
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.exe
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.pdb
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.xml
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_acc_detail.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_grupacc.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_category.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_brand.resources
+D:\Source Codes\Salon & Spa\Update 18-01-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_item.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.exe
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.xml
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.pdb
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.exe
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.pdb
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.xml
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\ResolveAssemblyReference.cache
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_item.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_brand.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_category.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_acc_detail.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmadjuststock.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmalljournal.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmAPList.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmARList.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcashregister.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcoa.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcommission.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem_beginning.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmjournal.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmledger.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmlistcard.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmmarketing.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAP.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAR.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpo.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurchase.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurc_return.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreceiptmoney.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreconcile.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsales.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalesreturn.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalonservice.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsetprice.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmso.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmspendmoney.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmstockopname.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsupplier.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FrmCommandPanel.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcustomer.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_grupacc.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.Resources.resources
+H:\Desktop Project\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.vbproj.GenerateResource.Cache
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.exe
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.pdb
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.xml
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_item.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_brand.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_category.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_acc_detail.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmadjuststock.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmalljournal.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmAPList.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmARList.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcashregister.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcoa.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcommission.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem_beginning.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmjournal.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmledger.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmlistcard.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmmarketing.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAP.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAR.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpo.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurchase.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurc_return.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreceiptmoney.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreconcile.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsales.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalesreturn.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalonservice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsetprice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmso.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmspendmoney.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmstockopname.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsupplier.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FrmCommandPanel.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcustomer.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_grupacc.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.Resources.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.vbproj.GenerateResource.Cache
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.exe
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.xml
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.pdb
+E:\Desktop Project\VB.NET\Salon & Spa\Update 25-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmservice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.exe
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.xml
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.pdb
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.exe
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.pdb
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.xml
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmservice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_item.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_brand.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_category.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_acc_detail.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmadjuststock.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmalljournal.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmAPList.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmARList.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcashregister.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcoa.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcommission.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem_beginning.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmjournal.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmledger.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmlistcard.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmmarketing.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAP.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAR.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpo.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurchase.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurc_return.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreceiptmoney.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreconcile.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsales.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalesreturn.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalonservice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsetprice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmso.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmspendmoney.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmstockopname.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsupplier.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FrmCommandPanel.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcustomer.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_grupacc.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.Resources.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.vbproj.GenerateResource.Cache
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_service.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_cust.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 26-02-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_teraphyst.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.exe
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.xml
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.pdb
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.exe
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.pdb
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.xml
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_teraphyst.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_cust.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_service.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmservice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_item.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_brand.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_category.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_acc_detail.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmadjuststock.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmalljournal.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmAPList.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmARList.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcashregister.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcoa.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcommission.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem_beginning.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmjournal.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmledger.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmlistcard.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmmarketing.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAP.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAR.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpo.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurchase.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurc_return.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreceiptmoney.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreconcile.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsales.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalesreturn.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalonservice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsetprice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmso.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmspendmoney.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmstockopname.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsupplier.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FrmCommandPanel.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcustomer.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_grupacc.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.Resources.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.vbproj.GenerateResource.Cache
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 02-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_unit.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.exe
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.xml
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.pdb
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.exe
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.pdb
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.xml
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_unit.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_teraphyst.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_cust.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_service.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmservice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_item.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_brand.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_category.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_acc_detail.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmadjuststock.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmalljournal.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmAPList.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmARList.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcashregister.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcoa.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcommission.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem_beginning.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmjournal.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmledger.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmlistcard.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmmarketing.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAP.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAR.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpo.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurchase.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurc_return.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreceiptmoney.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreconcile.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsales.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalesreturn.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalonservice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsetprice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmso.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmspendmoney.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmstockopname.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsupplier.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FrmCommandPanel.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcustomer.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_grupacc.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.Resources.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.vbproj.GenerateResource.Cache
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 05-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_supp.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.exe
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.xml
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.pdb
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.exe
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.pdb
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.xml
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_so.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_supp.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_unit.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_teraphyst.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_cust.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_service.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmservice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_item.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_brand.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_category.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_acc_detail.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmadjuststock.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmalljournal.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmAPList.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmARList.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcashregister.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcoa.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcommission.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem_beginning.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmjournal.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmledger.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmlistcard.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmmarketing.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAP.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAR.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpo.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurchase.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurc_return.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreceiptmoney.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreconcile.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsales.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalesreturn.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalonservice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsetprice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmso.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmspendmoney.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmstockopname.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsupplier.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FrmCommandPanel.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcustomer.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_grupacc.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.Resources.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.vbproj.GenerateResource.Cache
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_sales_receipt.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.exe
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.xml
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.pdb
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.exe
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.pdb
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.xml
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\ResolveAssemblyReference.cache
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_so.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_supp.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_unit.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_teraphyst.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_cust.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_service.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmservice.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_item.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_brand.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_category.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_acc_detail.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmadjuststock.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmalljournal.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmAPList.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmARList.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcashregister.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcoa.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcommission.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem_beginning.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmjournal.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmledger.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmlistcard.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmmarketing.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAP.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAR.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpo.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurchase.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurc_return.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreceiptmoney.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreconcile.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsales.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalesreturn.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalonservice.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsetprice.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmso.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmspendmoney.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmstockopname.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsupplier.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FrmCommandPanel.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcustomer.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_grupacc.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_sales_receipt.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.Resources.resources
+H:\New folder\Source Codes YolkSalonSpa 07-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.vbproj.GenerateResource.Cache
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.exe
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.xml
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.pdb
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.exe
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.pdb
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.xml
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_so.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_supp.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_unit.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_teraphyst.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_cust.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_service.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmservice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_item.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_brand.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_category.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_acc_detail.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmadjuststock.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmalljournal.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmAPList.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmARList.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcashregister.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcoa.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcommission.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem_beginning.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmjournal.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmledger.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmlistcard.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmmarketing.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAP.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAR.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpo.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurchase.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurc_return.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreceiptmoney.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreconcile.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsales.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalesreturn.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalonservice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsetprice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmso.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmspendmoney.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmstockopname.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsupplier.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FrmCommandPanel.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcustomer.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_grupacc.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_sales_receipt.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.Resources.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.vbproj.GenerateResource.Cache
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 10-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_po.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.exe
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.xml
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.pdb
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.exe
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.pdb
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.xml
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_po.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_so.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_supp.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_unit.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_teraphyst.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_cust.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_service.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmservice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_item.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_brand.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_category.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_acc_detail.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmadjuststock.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmalljournal.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmAPList.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmARList.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcashregister.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcoa.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcommission.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem_beginning.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmjournal.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmledger.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmlistcard.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmmarketing.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAP.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAR.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpo.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurchase.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurc_return.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreceiptmoney.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreconcile.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsales.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalesreturn.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalonservice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsetprice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmso.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmspendmoney.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmstockopname.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsupplier.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FrmCommandPanel.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcustomer.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_grupacc.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_sales_receipt.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.Resources.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.vbproj.GenerateResource.Cache
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormServiceReport.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormServiceReport1.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormStockReport1.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormStockReport.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 13-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_purchase.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.exe
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.xml
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.pdb
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.exe
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.pdb
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.xml
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormStockReport1.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormStockReport.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormServiceReport.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormServiceReport1.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_po.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_purchase.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_so.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_supp.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_unit.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_teraphyst.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_cust.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_service.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmservice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_item.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_brand.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_category.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_acc_detail.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmadjuststock.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmalljournal.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmAPList.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmARList.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcashregister.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcoa.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcommission.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem_beginning.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmjournal.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmledger.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmlistcard.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmmarketing.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAP.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAR.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpo.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurchase.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurc_return.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreceiptmoney.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreconcile.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsales.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalesreturn.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalonservice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsetprice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmso.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmspendmoney.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmstockopname.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsupplier.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FrmCommandPanel.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcustomer.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_grupacc.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_sales_receipt.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.Resources.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.vbproj.GenerateResource.Cache
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.MainMenu.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_sales.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormServiceReport2.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormSalesReport1.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormSalesReport.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormPurchReport3.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormPurchReport2.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormPurchReport1.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 18-03-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormPurchReport.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.exe
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.xml
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.pdb
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.exe
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.pdb
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.xml
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormPurchReport3.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormPurchReport2.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormPurchReport1.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormPurchReport.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormSalesReport1.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormSalesReport.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormServiceReport2.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_sales.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormStockReport1.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormStockReport.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormServiceReport.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormServiceReport1.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_po.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_purchase.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.MainMenu.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_so.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_supp.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_unit.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_teraphyst.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_cust.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_service.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmservice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_item.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_brand.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_category.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_acc_detail.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmadjuststock.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmalljournal.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmAPList.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmARList.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcashregister.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcoa.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcommission.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem_beginning.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmjournal.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmledger.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmlistcard.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmmarketing.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAP.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAR.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpo.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurchase.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurc_return.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreceiptmoney.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreconcile.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsales.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalesreturn.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalonservice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsetprice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmso.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmspendmoney.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmstockopname.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsupplier.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FrmCommandPanel.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcustomer.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_grupacc.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_sales_receipt.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.Resources.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.vbproj.GenerateResource.Cache
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormAccReport1.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormAccReport.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormAccReport2.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 03-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormAccReport3.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.exe
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.xml
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.pdb
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.exe
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.pdb
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.xml
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormAccReport3.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormAccReport2.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormAccReport1.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormAccReport.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormPurchReport3.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormPurchReport2.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormPurchReport1.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormPurchReport.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormSalesReport1.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormSalesReport.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormServiceReport2.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_sales.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormStockReport1.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormStockReport.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormServiceReport.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormServiceReport1.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_po.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_purchase.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.MainMenu.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_so.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_supp.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_unit.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_teraphyst.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_cust.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_service.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmservice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_item.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_brand.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_category.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_acc_detail.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmadjuststock.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmalljournal.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmAPList.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmARList.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcashregister.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcoa.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcommission.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem_beginning.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmjournal.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmledger.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmlistcard.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmmarketing.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAP.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAR.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpo.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurchase.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurc_return.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreceiptmoney.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreconcile.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsales.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalesreturn.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalonservice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsetprice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmso.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmspendmoney.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmstockopname.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsupplier.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FrmCommandPanel.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcustomer.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_grupacc.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_sales_receipt.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.Resources.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.vbproj.GenerateResource.Cache
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 12-04-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormServiceReport3.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.exe
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.xml
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.pdb
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormServiceReport3.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormAccReport3.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormAccReport2.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormAccReport1.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormAccReport.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormPurchReport3.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormPurchReport2.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormPurchReport1.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormPurchReport.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormSalesReport1.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormSalesReport.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormServiceReport2.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_sales.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormStockReport1.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormStockReport.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormServiceReport.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FormServiceReport1.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_po.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_purchase.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.MainMenu.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_so.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_supp.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_unit.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_teraphyst.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_cust.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_service.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmservice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_item.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_brand.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_category.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_acc_detail.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmadjuststock.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmalljournal.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmAPList.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmARList.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcashregister.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcoa.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcommission.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmitem_beginning.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmjournal.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmledger.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmlistcard.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmmarketing.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAP.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpayAR.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpo.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurchase.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmpurc_return.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreceiptmoney.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmreconcile.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsales.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalesreturn.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsalonservice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsetprice.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmso.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmspendmoney.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmstockopname.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmsupplier.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.FrmCommandPanel.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frmcustomer.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_display_grupacc.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.frm_sales_receipt.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.Resources.resources
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.vbproj.GenerateResource.Cache
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.exe
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.pdb
+E:\Desktop Project\VB.NET\Salon & Spa\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\bin\Debug\SalonSpa.xml
+E:\Desktop Project\VB.NET\New POS System\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.exe
+E:\Desktop Project\VB.NET\New POS System\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.xml
+E:\Desktop Project\VB.NET\New POS System\Source Codes YolkSalonSpa 07-05-2014\Salon & Spa\SalonSpa\obj\Debug\SalonSpa.pdb
